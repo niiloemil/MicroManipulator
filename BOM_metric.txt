@@ -1,0 +1,27 @@
+*** HARDWARE **********************************************
+
+Qty   Name                              Dimensions
+----  --------------------------------  -------------------
+3     Countersunk Screw                 M3 x 30mm
+18    Countersunk Screw                 M3 x 18mm
+12    Countersunk Screw (Trox)          M2 x 8mm
+12    Countersunk Screw (Trox)          M2 x 8mm
+12    Countersunk Screw (Trox)          M2.5 x 6mm
+6     O-Ring                            ID=6mm, CS=1mm
+3     Washer                            M3
+1m    Piano wire / Spring steel rod     D=0.5mm
+1     CA-Glue / Superglue               1g
+
+*** 3D-PRINTED PARTS **************************************
+
+Qty   Name                              
+---   -----------------------------------------------------
+6     WireMount
+6     FlexureStiffener
+3     FlexureStage
+3     FlexureStageBase
+3     LeadscrewWheel
+1     EndEffector
+1     WireMountFixture
+
+
