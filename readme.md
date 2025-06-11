@@ -12,7 +12,7 @@ Thanks to its parallel kinematic structure and integrated flexures, it achieves 
 
 ### Build
 
-Ready to print 3d-models can be found here: [examples](print_files/v2).
+Ready to print 3d-models can be found here: [Filed for 3D-Printing](print_files/v2).
 
 ### Examples
 
