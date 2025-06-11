@@ -7,7 +7,7 @@ Thanks to its parallel kinematic structure and integrated flexures, it achieves 
 
 <div style="display: flex;">
     <img src="images/CAD1.jpg" alt="Image 1" width="49%">
-    <img src="images/Photo1.jpg" alt="Image 2" width="49%">
+    <img src="images/Photo2.jpg" alt="Image 2" width="49%">
 </div>
 
 
