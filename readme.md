@@ -15,7 +15,7 @@ Thanks to its parallel kinematic structure and integrated flexures, it achieves 
 Ready to print 3d-models can be found here: [Files for 3D-Printing](print_files/v2).
 
 Parts are optimized for 0.4mm print nozzle and PLA. The parts 'WireMount' and 'FlexureStiffener' should be printed at slow speed (25mm/s) and with 0.1mm layerheight to ensure good quality prints.
-All other parts can be printed with 0.2mm or 0.25mm layer height and regular speed. 
+All other parts can be printed with 0.2mm or 0.25mm layer height and regular speed. The endeffector requires a little bit of support, which is easy to peel of for this simple geometry.
 
 ### Examples
 
