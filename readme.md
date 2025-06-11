@@ -13,3 +13,12 @@ Thanks to its parallel kinematic structure and integrated flexures, it achieves 
 ### Build
 
 Ready to print 3d-models can be found here: [examples](print_files/v2).
+
+### Contribute
+
+There are some open task for everyone wanting to contribute to this project:
+
+* Create CAD model for imperial units.
+* Improve O-Ring Flexure preload mechanism.
+* Find an easy way to mount the crank wheels true and without 'wobble' to M3 bolts.
+
