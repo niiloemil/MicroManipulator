@@ -10,7 +10,7 @@ Thanks to its parallel kinematic structure and integrated flexures, it achieves 
     <img src="images/Photo2.jpg" alt="Image 2" width="49%">
 </div>
 
-### Build
+### 3D-Printing
 
 Ready to print 3d-models can be found here: [Files for 3D-Printing](print_files/v2).
 
