@@ -14,6 +14,14 @@ Thanks to its parallel kinematic structure and integrated flexures, it achieves 
 
 Ready to print 3d-models can be found here: [examples](print_files/v2).
 
+### Examples
+
+<div style="display: flex;">
+    <img src="images/Example_FiberCoupling.jpg" alt="Example 1" width="33%">
+    <img src="images/Example_FiberCoupling.jpg" alt="Example 2" width="33%">
+    <img src="images/Example_FiberCoupling.jpg" alt="Example 3" width="33%">
+</div>
+
 ### Contribute
 
 There are some open task for everyone wanting to contribute to this project:
