@@ -9,6 +9,8 @@ Thanks to its parallel kinematic structure and integrated flexures, it achieves 
     <img src="images/CAD1.jpg" alt="Image 1" width="49%">
     <img src="images/Photo2.jpg" alt="Image 2" width="49%">
 </div>
+
+The design was partially inspired by another great open source flexure stage 'The OpenFlexure Block Stage - Sub-100 nm fibre alignment with a monolithic plastic flexure stage' 
 <br><br>
 
 ### ✅ 3D-Printing
@@ -33,6 +35,13 @@ Below you find some examples of the translation stage in action. But there are m
     <img src="images/Example_Drilling.jpg" alt="Example 3" width="24%">
 </div>
 <br><br>
+
+### 📄Resources
+
+Here are some great resources and similar projects from which inspiration for this project was drawn.
+
+* [Open Flexure Microscope](https://openflexure.org/projects/microscope/)
+* [The OpenFlexure Block Stage](https://arxiv.org/abs/1911.09986).
 
 ### 🚀 Contribute 
 
