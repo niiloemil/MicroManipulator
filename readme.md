@@ -23,9 +23,10 @@ All other parts can be printed with 0.2mm or 0.25mm layer height and regular spe
 Below you find some examples of the translation stage in action. But there are many more possible usecases to be discovered...
 
 <div style="display: flex;">
-    <img src="images/Example_FiberCoupling.jpg" alt="Example 1" width="30%">
-    <img src="images/Example_FiberAlignment.jpg" alt="Example 2" width="30%">
-    <img src="images/Example_Microscopy.jpg" alt="Example 3" width="30%">
+    <img src="images/Example_FiberCoupling.jpg" alt="Example 1" width="24%">
+    <img src="images/Example_FiberAlignment.jpg" alt="Example 2" width="24%">
+    <img src="images/Example_Microscopy.jpg" alt="Example 3" width="24%">
+    <img src="images/Example_Drilling.jpg" alt="Example 3" width="24%">
 </div>
 
 ### 🚀 Contribute 
