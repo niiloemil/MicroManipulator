@@ -34,7 +34,6 @@ Below you find some examples of the translation stage in action. But there are m
     <img src="images/Example_Microscopy.jpg" alt="Example 3" width="24%">
     <img src="images/Example_Drilling.jpg" alt="Example 3" width="24%">
 </div>
-<br><br>
 
 ### 📄Resources
 
