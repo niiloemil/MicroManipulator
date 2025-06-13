@@ -13,6 +13,12 @@ Thanks to its parallel kinematic structure and integrated flexures, it achieves 
 The design was partially inspired by another great open source flexure stage 'The OpenFlexure Block Stage - Sub-100 nm fibre alignment with a monolithic plastic flexure stage' 
 <br><br>
 
+### ⚙ CAD-Files
+
+All CAD models are made in FreeCAD, to allow everyone to view and modify the design without subscribing or paying for a propriatary CAD solution.
+
+The files for the metric version can be found here: [CAD Models Metric](construction_metric).
+
 ### ✅ 3D-Printing
 
 Ready to print 3d-models can be found here: [Files for 3D-Printing](print_files/v2).
