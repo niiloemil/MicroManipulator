@@ -7,7 +7,7 @@ Qty   Name                              Dimensions
 12    Countersunk Screw (Trox)          M2 x 8mm
 12    Countersunk Screw (Trox)          M2 x 8mm
 12    Countersunk Screw (Trox)          M2.5 x 6mm
-6     O-Ring                            ID=6mm, CS=1mm
+6     O-Ring (Silicone / Viton)         ID=6mm, CS=1mm
 3     Washer                            M3
 1m    Piano wire / Spring steel rod     D=0.5mm
 1     CA-Glue / Superglue               1g
